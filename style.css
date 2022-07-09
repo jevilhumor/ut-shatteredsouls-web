@@ -7,6 +7,11 @@
 	font-size: 100%;
     src: url('asset/font/8bitOperatorPlus-Regular.woff');
 }
+@font-face {
+    font-family: 'Windings Reg';
+	font-size: 100%;
+    src: url('asset/font/pixelated-wingdings.woff');
+}
 
 head {
 	width: 100%;
@@ -171,8 +176,8 @@ button {
 	text-align: left;
 	font-family:'8bitoperator Reg';
 	font-size:16px;
-
 }
+
 .art-image {
 	margin: auto;
 	width: 480px;
